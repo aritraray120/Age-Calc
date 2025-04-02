@@ -1,13 +1,7 @@
 # **Age-Calc**  
 🔗 **Live Demo:** *https://age-calc-azure.vercel.app/*  
 
-A simple React app that calculates your exact **age in years, months, and days** based on your date of birth. Fully responsive and optimized for all screen sizes.  
-
-## 🚀 **Features**  
-✅ Enter your date of birth to calculate  
-✅ Clean and minimal UI  
-✅ Fully responsive design  
-✅ Smooth and fast performance  
+A simple React app that calculates your exact **age in years, months, and days** based on your date of birth. Fully responsive and optimized for all screen sizes.   
 
 ## 🛠 **Tech Stack**  
 - **React.js** – Frontend library  
